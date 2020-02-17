@@ -12,6 +12,12 @@ hhh
 111
 444
 
+# Sayings
 How now brown cow
 Mary had a little lamb
 and the cow jumped over the moon
+
+# Let's try some symbols this time
+!!!
+@@@
+###
